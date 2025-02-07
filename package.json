@@ -1,0 +1,24 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "nodejs activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kent S. Wenceslao",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kwenceslao1/intro_nodejs_express.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kwenceslao1/intro_nodejs_express/issues"
+  },
+  "homepage": "https://github.com/Kwenceslao1/intro_nodejs_express#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {}
+}
